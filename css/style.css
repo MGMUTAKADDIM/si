@@ -1,0 +1,57 @@
+/*common css start*/
+/*banner start*/
+.container{margin:0 auto;
+padding: 50px 0px 50px 0px;
+
+
+}
+
+
+.c_h1{font-size: 20px;
+color: black;
+padding-bottom: 25px;
+text-align: center;}
+.c_h1:hover {color: darkred;
+}
+.c_h2{font-size: 15px;
+color:gray;
+margin: 0px 35px 40px 35px;
+text-align: center;
+}
+.img_c{width: 25%;
+margin-left: 100px;
+padding-top: 25px;
+padding-bottom: 30px;}
+.img_c:hover{transform: scale(1.2);
+}
+
+
+.slide_1{border: 1px solid black;
+background-color: whitesmoke;
+border-radius: 8px;
+}
+/*footer start*/
+.footer{border: 1px solid black;
+background-color:rgba(30,2, 20,20);
+margin:0 auto;}
+.f_1{font-size: 15px;
+padding: 90px 0px 8px 80px;
+color: white;}
+.f_2{padding: 10px 0px 10px 80px;
+font-size: 35px;}
+.f_2 span{font-size: 60px;
+color: white;
+margin: 10px 0px 10px 0px;}
+.f_3{padding: 8px 0px 80px 80px;
+font-size: 15px;
+color: white;}
+
+.btn_c{margin:155px 0px 80px 90px;
+  padding: 15px 25px 15px 25px;
+  text-align:center;
+  border-radius:50px; 
+background-color:hotpink;
+color: white;}
+
+.footer h2{color: white;}
+
